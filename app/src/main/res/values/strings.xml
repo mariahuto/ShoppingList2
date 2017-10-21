@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="edit_box">Afageix un element a la llista</string>
+    <string name="confirm">CONFIRMACIÓ</string>
+    <string name="remove">ELIMINA</string>
+    <string name="missatge">Està segur que vol eliminar \'%1$s\' de la llista ?</string>
+</resources>
